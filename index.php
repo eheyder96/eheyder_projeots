@@ -1,6 +1,8 @@
-<? php
+<?php
 
-	echo "criei meu respositorio";
+	echo "Olá Mundo!";
+
+	echo "Olá Mundosdas!";
+
 
 ?>
-
