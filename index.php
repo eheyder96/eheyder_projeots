@@ -4,4 +4,10 @@
 
 	echo "Olá Mundíneeeeeeo!";
 
+	$name(Eduardo);
+
+	echo "nova linha de código";
+	
+
+
 ?>
